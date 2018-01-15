@@ -1,4 +1,4 @@
 # Jupyter Notebook
 .ipynb_checkpoints
-Project1/.ipynb_checkpoints
-Project2/.ipynb_checkpoints
+Project1/.ipynb_checkpoints/*
+Project2/.ipynb_checkpoints/*
