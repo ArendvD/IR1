@@ -1,0 +1,11 @@
+infrequentString filter=lfs diff=lfs merge=lfs -text
+manifest filter=lfs diff=lfs merge=lfs -text
+directFile filter=lfs diff=lfs merge=lfs -text
+documentLengths filter=lfs diff=lfs merge=lfs -text
+fieldsFile filter=lfs diff=lfs merge=lfs -text
+infrequentID filter=lfs diff=lfs merge=lfs -text
+invertedFile filter=lfs diff=lfs merge=lfs -text
+documentStatistics filter=lfs diff=lfs merge=lfs -text
+frequentID filter=lfs diff=lfs merge=lfs -text
+frequentString filter=lfs diff=lfs merge=lfs -text
+frequentTerms filter=lfs diff=lfs merge=lfs -text
